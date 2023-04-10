@@ -1,0 +1,15 @@
+C:\Users\aagri\Desktop\Учёба\C#\Exampless\Exampless002_HelloUser\bin\Debug\net7.0\Exampless002_HelloUser.exe
+C:\Users\aagri\Desktop\Учёба\C#\Exampless\Exampless002_HelloUser\bin\Debug\net7.0\Exampless002_HelloUser.deps.json
+C:\Users\aagri\Desktop\Учёба\C#\Exampless\Exampless002_HelloUser\bin\Debug\net7.0\Exampless002_HelloUser.runtimeconfig.json
+C:\Users\aagri\Desktop\Учёба\C#\Exampless\Exampless002_HelloUser\bin\Debug\net7.0\Exampless002_HelloUser.dll
+C:\Users\aagri\Desktop\Учёба\C#\Exampless\Exampless002_HelloUser\bin\Debug\net7.0\Exampless002_HelloUser.pdb
+C:\Users\aagri\Desktop\Учёба\C#\Exampless\Exampless002_HelloUser\obj\Debug\net7.0\Exampless002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\aagri\Desktop\Учёба\C#\Exampless\Exampless002_HelloUser\obj\Debug\net7.0\Exampless002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aagri\Desktop\Учёба\C#\Exampless\Exampless002_HelloUser\obj\Debug\net7.0\Exampless002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\aagri\Desktop\Учёба\C#\Exampless\Exampless002_HelloUser\obj\Debug\net7.0\Exampless002_HelloUser.AssemblyInfo.cs
+C:\Users\aagri\Desktop\Учёба\C#\Exampless\Exampless002_HelloUser\obj\Debug\net7.0\Exampless002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\aagri\Desktop\Учёба\C#\Exampless\Exampless002_HelloUser\obj\Debug\net7.0\Exampless002_HelloUser.dll
+C:\Users\aagri\Desktop\Учёба\C#\Exampless\Exampless002_HelloUser\obj\Debug\net7.0\refint\Exampless002_HelloUser.dll
+C:\Users\aagri\Desktop\Учёба\C#\Exampless\Exampless002_HelloUser\obj\Debug\net7.0\Exampless002_HelloUser.pdb
+C:\Users\aagri\Desktop\Учёба\C#\Exampless\Exampless002_HelloUser\obj\Debug\net7.0\Exampless002_HelloUser.genruntimeconfig.cache
+C:\Users\aagri\Desktop\Учёба\C#\Exampless\Exampless002_HelloUser\obj\Debug\net7.0\ref\Exampless002_HelloUser.dll
